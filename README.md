@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![goyubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyubin&show_icons=true&theme=tokyonight) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gongdiet77)](https://solved.ac/gongdiet77)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyubin&layout=compact&theme=tokyonight)
